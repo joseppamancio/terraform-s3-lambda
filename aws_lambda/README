@@ -1,0 +1,2 @@
+Put lambda functions here. Each function should be in its own directory. The directory name will be the name of the lambda function.
+Put Zip files in the `zips` directory. The zip file name should be the same as the directory name of the lambda function.
